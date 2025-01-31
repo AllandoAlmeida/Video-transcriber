@@ -1,6 +1,4 @@
-﻿# Project Video-transcriber
-
-## Documentação do Projeto
+# Documentação do Projeto
 
 ## **1. Transcrição de Reuniões em Tempo Real (Captura de Áudio)**
 
